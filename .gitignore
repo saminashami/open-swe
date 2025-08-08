@@ -32,7 +32,6 @@ yarn-error.log*
 
 # local env files
 .env*.local
-.env
 
 # vercel
 .vercel
@@ -47,3 +46,4 @@ credentials.json
 .langgraph_api
 
 **/.claude/settings.local.json
+config.bat
